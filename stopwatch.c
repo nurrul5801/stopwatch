@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<curses.h>
 #include<string.h>
-int main()
+void main()
 {
  int hour,min,sec;
  initscr();
